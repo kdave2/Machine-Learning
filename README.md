@@ -10,3 +10,5 @@ Next up we decide on important features to be included in a domain by analyzing 
 
 We then compare the Irish dataset using various techinique like KNeighbor and Decision Tree etc.. to measure the accuracy of the data being learned.
 
+So, I implemented a classifier on my own similar to KNN K nearest neighbours where k = 1 as we find the closest point and assign the label. We have done that using euclidean formula to find the distance between test_point and all the training points to find the shortest distance. 
+
